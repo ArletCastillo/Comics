@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+      "target": "https://comicvine.gamespot.com",
+      "secure": true,
+      "changeOrigin": true
+    }
+  }
